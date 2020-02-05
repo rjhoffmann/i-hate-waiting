@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/i-hate-waiting/static/js/main.7ceca4b9.chunk.js",
+    "main.js.map": "/i-hate-waiting/static/js/main.7ceca4b9.chunk.js.map",
+    "runtime-main.js": "/i-hate-waiting/static/js/runtime-main.7a6f2cda.js",
+    "runtime-main.js.map": "/i-hate-waiting/static/js/runtime-main.7a6f2cda.js.map",
+    "static/js/2.969f20bf.chunk.js": "/i-hate-waiting/static/js/2.969f20bf.chunk.js",
+    "static/js/2.969f20bf.chunk.js.map": "/i-hate-waiting/static/js/2.969f20bf.chunk.js.map",
+    "index.html": "/i-hate-waiting/index.html",
+    "precache-manifest.417b94c783ce460df07108c88ac28bf5.js": "/i-hate-waiting/precache-manifest.417b94c783ce460df07108c88ac28bf5.js",
+    "service-worker.js": "/i-hate-waiting/service-worker.js",
+    "static/js/2.969f20bf.chunk.js.LICENSE": "/i-hate-waiting/static/js/2.969f20bf.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a6f2cda.js",
+    "static/js/2.969f20bf.chunk.js",
+    "static/js/main.7ceca4b9.chunk.js"
+  ]
+}
